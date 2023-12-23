@@ -14,22 +14,22 @@ const PxPage = () => {
           />
           <ul className="flex sm:flex-col flex-row gap-7 sm:hidden items-start justify-start w-auto common-row-list">
             <li>
-              <a href="#" className="text-sm text-white-A700">
+              <a href="./" className="text-sm text-white-A700">
                 <Text size="txtInterMedium14">SERVICES</Text>
               </a>
             </li>
             <li>
-              <a href="#" className="text-sm text-white-A700">
+              <a href="./" className="text-sm text-white-A700">
                 <Text size="txtInterMedium14">ABOUT US</Text>
               </a>
             </li>
             <li>
-              <a href="#" className="text-sm text-white-A700">
+              <a href="./" className="text-sm text-white-A700">
                 <Text size="txtInterMedium14">CONTACT US</Text>
               </a>
             </li>
             <li>
-              <a href="#" className="text-sm text-white-A700">
+              <a href="./" className="text-sm text-white-A700">
                 <Text size="txtInterMedium14">CAREERS</Text>
               </a>
             </li>
@@ -144,7 +144,7 @@ const PxPage = () => {
                   <ul className="flex flex-col gap-3 items-start justify-start w-auto md:w-full common-column-list">
                     <li>
                       <a
-                        href="javascript:"
+                        href="./"
                         className="capitalize text-sm text-white-A700"
                       >
                         <Text size="txtInterMedium14">ReactJS</Text>
@@ -152,7 +152,7 @@ const PxPage = () => {
                     </li>
                     <li>
                       <a
-                        href="javascript:"
+                        href="./"
                         className="capitalize text-sm text-white-A700"
                       >
                         <Text size="txtInterMedium14">Gatsby</Text>
@@ -160,7 +160,7 @@ const PxPage = () => {
                     </li>
                     <li>
                       <a
-                        href="javascript:"
+                        href="./"
                         className="capitalize text-sm text-white-A700"
                       >
                         <Text size="txtInterMedium14">NextJS</Text>
@@ -168,7 +168,7 @@ const PxPage = () => {
                     </li>
                     <li>
                       <a
-                        href="javascript:"
+                        href="./"
                         className="capitalize text-sm text-white-A700"
                       >
                         <Text size="txtInterMedium14">NodeJS</Text>
@@ -176,7 +176,7 @@ const PxPage = () => {
                     </li>
                     <li>
                       <a
-                        href="javascript:"
+                        href="./"
                         className="capitalize text-sm text-white-A700"
                       >
                         <Text size="txtInterMedium14">GraphQL</Text>
@@ -184,7 +184,7 @@ const PxPage = () => {
                     </li>
                     <li>
                       <a
-                        href="javascript:"
+                        href="./"
                         className="capitalize text-sm text-white-A700"
                       >
                         <Text size="txtInterMedium14">Laravel</Text>
@@ -238,14 +238,14 @@ const PxPage = () => {
               <Line className="bg-white-A700 h-px w-full" />
               <div className="flex flex-row gap-4 items-center justify-center w-auto">
                 <a
-                  href="javascript:"
+                  href="./"
                   className="capitalize text-sm text-white-A700 w-auto"
                 >
                   <Text size="txtInterMedium14">Privacy Policy</Text>
                 </a>
                 <Line className="bg-white-A700 h-4 w-px" />
                 <a
-                  href="javascript:"
+                  href="./"
                   className="capitalize text-sm text-white-A700 w-auto"
                 >
                   <Text size="txtInterMedium14">Terms & Conditions</Text>
